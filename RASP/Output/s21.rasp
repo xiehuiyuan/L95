@@ -1,0 +1,20 @@
+(|Skill:1_NN1| |without:2_II| |imagination:3_NN1| |is:4_VBZ| |craftsmanship:5_NN1| |and:6_CC| |gives:7_VDZ| |us:8_PPIO2| |many:9_JJ| |useful:10_JJ| |objects:11_NN2| |such:12_JJ| |as:13_II| |wickerwork:14_NN1| |picnic:15_NN1| |baskets:16_NN2| |.:17_.|) 1 ; (-34.261)
+gr-list: 1
+(|ncsubj| |and:6_CC| |Skill:1_NN1| _)
+(|conj| |and:6_CC| |is:4_VBZ|)
+(|conj| |and:6_CC| |gives:7_VDZ|)
+(|obj2| |gives:7_VDZ| |objects:11_NN2|)
+(|dobj| |gives:7_VDZ| |us:8_PPIO2|)
+(|ncmod| _ |objects:11_NN2| |such:12_JJ|)
+(|ncmod| _ |such:12_JJ| |as:13_II|)
+(|dobj| |as:13_II| |baskets:16_NN2|)
+(|ncmod| _ |baskets:16_NN2| |wickerwork:14_NN1|)
+(|ncmod| _ |baskets:16_NN2| |picnic:15_NN1|)
+(|ncmod| _ |objects:11_NN2| |many:9_JJ|)
+(|ncmod| _ |objects:11_NN2| |useful:10_JJ|)
+(|xcomp| _ |is:4_VBZ| |craftsmanship:5_NN1|)
+(|ncmod| _ |Skill:1_NN1| |without:2_II|)
+(|dobj| |without:2_II| |imagination:3_NN1|)
+
+
+Imagination_NN1 without_II skill_NN1 gives_VDZ us_PPIO2 modern_JJ art_NN1 ._. 

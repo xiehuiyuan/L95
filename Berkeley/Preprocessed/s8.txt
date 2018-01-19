@@ -1,0 +1,16 @@
+The	DT
+only	JJ
+rabbit	NN
+that	WDT
+I	PRP
+ever	RB
+liked	VBD
+was	VBD
+eaten	VBN
+by	IN
+my	PRP$
+parents	NNS
+one	CD
+summer	NN
+.	.
+

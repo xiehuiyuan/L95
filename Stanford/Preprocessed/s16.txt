@@ -1,0 +1,2 @@
+Making/VBG these/DT decisions/NNS requires/VBZ sophisticated/JJ knowledge/NN of/IN syntax/NN ;/;
+tagging/VBG manuals/NNS -LRB-/-LRB- Santorini/NNP ,/, 1990/CD -RRB-/-RRB- give/VBP various/JJ heuristics/NNS that/WDT can/MD help/VB human/NN coders/NNS make/VBP these/DT decisions/NNS and/CC that/DT can/MD also/RB provide/VB useful/JJ features/NNS for/IN automatic/JJ taggers/NNS ./. 

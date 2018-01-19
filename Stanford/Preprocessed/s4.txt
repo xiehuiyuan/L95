@@ -1,0 +1,1 @@
+Kim/NNP and/CC Sandy/NNP both/RB broke/VBD up/RP with/IN their/PRP$ partners/NNS ./. 

@@ -1,0 +1,1 @@
+Thus/RB the/DT EM-trained/JJ ``/`` pure/JJ HMM/NNP ''/'' tagger/NN is/VBZ probably/RB best/RBS suited/VBN to/TO cases/NNS where/WRB no/DT training/NN data/NN is/VBZ available/JJ ,/, for/IN example/NN ,/, when/WRB tagging/VBG languages/NNS for/IN which/WDT no/DT data/NN was/VBD previously/RB hand-tagged/VBN ./. 

@@ -1,0 +1,36 @@
+(|An:1_AT1| |MoD:2_NP| |spokesman:3_NN1| |said:4_VVD| |::5_:| |Surveys:7_NN2| |of:8_II| |Astute:9_NP| |have:10_VH0| |now:11_RR| |been:12_VBN| |completed:13_VVN| |and:14_CC| |she:15_PPHS1| |will:16_VM| |proceed:17_VV0| |to:18_TO| |Faslane:19_NP| |under:20_II| |her:21_APP$| |own:22_JJ| |power:23_NN1| |.:24_.|) 0 ; ()
+gr-list: 1
+(|ncmod| _ |Faslane:19_NP| |under:20_II|)
+(|dobj| |under:20_II| |power:23_NN1|)
+(|det| |power:23_NN1| |her:21_APP$|)
+(|ncmod| _ |power:23_NN1| |own:22_JJ|)
+(|ta| |colon| |said:4_VVD| |proceed:17_VV0|)
+(|ncsubj| |proceed:17_VV0| |and:14_CC| _)
+(|aux| |proceed:17_VV0| |will:16_VM|)
+(|conj| |and:14_CC| |Surveys:7_NN2|)
+(|conj| |and:14_CC| |she:15_PPHS1|)
+(|cmod| _ |Surveys:7_NN2| |of:8_II|)
+(|ccomp| _ |of:8_II| |completed:13_VVN|)
+(|ncsubj| |completed:13_VVN| |Astute:9_NP| _)
+(|ncmod| _ |completed:13_VVN| |now:11_RR|)
+(|aux| |completed:13_VVN| |have:10_VH0|)
+(|aux| |completed:13_VVN| |been:12_VBN|)
+(|passive| |completed:13_VVN|)
+(|ncsubj| |said:4_VVD| |spokesman:3_NN1| _)
+(|det| |spokesman:3_NN1| |An:1_AT1|)
+(|ncmod| _ |spokesman:3_NN1| |MoD:2_NP|)
+
+
+(|She:1_PPHS1| |is:2_VBZ| |being:3_VBG| |escorted:4_VVN| |by:5_II| |tugs:6_NN2| |and:7_CC| HMS\:8_NP |Shoreham:9_NP| |.:10_.|) 1 ; (-13.163)
+gr-list: 1
+(|ncsubj| |escorted:4_VVN| |She:1_PPHS1| _)
+(|aux| |escorted:4_VVN| |is:2_VBZ|)
+(|aux| |escorted:4_VVN| |being:3_VBG|)
+(|passive| |escorted:4_VVN|)
+(|iobj| |escorted:4_VVN| |by:5_II|)
+(|dobj| |by:5_II| |and:7_CC|)
+(|conj| |and:7_CC| |tugs:6_NN2|)
+(|conj| |and:7_CC| |Shoreham:9_NP|)
+(|ncmod| _ |Shoreham:9_NP| HMS\:8_NP)
+
+

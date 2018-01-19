@@ -1,0 +1,16 @@
+The	DT
+veterans	NNS
+who	WP
+I	PRP
+thought	VBD
+that	WDT
+we	PRP
+would	MD
+meet	VB
+at	IN
+the	DT
+reunion	NN
+were	VBD
+dead	JJ
+.	.
+

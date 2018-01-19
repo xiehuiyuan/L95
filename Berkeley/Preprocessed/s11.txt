@@ -1,0 +1,26 @@
+Letters	NNS
+delivered	VBN
+on	IN
+time	NN
+by	IN
+old-fashioned	JJ
+means	NNS
+are	VBP
+increasingly	RB
+rare	JJ
+,	,
+so	IN
+it	PRP
+is	VBZ
+as	RB
+well	RB
+that	WDT
+that	PRP
+is	VBZ
+not	RB
+the	DT
+only	JJ
+option	NN
+available	JJ
+.	.
+

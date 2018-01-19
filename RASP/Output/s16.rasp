@@ -1,0 +1,32 @@
+(|Making:1_VVG| |these:2_DD2| |decisions:3_NN2| |requires:4_VVZ| |sophisticated:5_JJ| |knowledge:6_NN1| |of:7_II| |syntax:8_NN1| |;:9_;|) 0 ; ()
+gr-list: 1
+(|xsubj| |requires:4_VVZ| |Making:1_VVG| _)
+(|iobj| |requires:4_VVZ| |of:7_II|)
+(|dobj| |requires:4_VVZ| |knowledge:6_NN1|)
+(|dobj| |of:7_II| |syntax:8_NN1|)
+(|ncmod| _ |knowledge:6_NN1| |sophisticated:5_JJ|)
+(|dobj| |Making:1_VVG| |decisions:3_NN2|)
+(|det| |decisions:3_NN2| |these:2_DD2|)
+
+
+(|tagging:1_VVG| |manuals:2_NN2| |(:3_(| |Santorini:4_NP| |,:5_,| 1990\:6_NNT1 |):7_)| |give:8_VV0| |various:9_JJ| |heuristics:10_NNS| |that:11_CST| |can:12_VM| |help:13_VV0| |human:14_NN| |coders:15_NNS| |make:16_VV0| |these:17_DD2| |decisions:18_NN2| |and:19_CC| |that:20_CST| |can:21_VM| |also:22_RR| |provide:23_VV0| |useful:24_JJ| |features:25_NN2| |for:26_II| |automatic:27_JJ| |taggers:28_NN2| |.:29_.|) 0 ; ()
+gr-list: 1
+(|ncmod| _ |provide:23_VV0| |also:22_RR|)
+(|dobj| |provide:23_VV0| |features:25_NN2|)
+(|ncmod| _ |features:25_NN2| |for:26_II|)
+(|dobj| |for:26_II| |taggers:28_NN2|)
+(|ncmod| _ |taggers:28_NN2| |automatic:27_JJ|)
+(|ncmod| _ |features:25_NN2| |useful:24_JJ|)
+(|aux| |help:13_VV0| |can:12_VM|)
+(|dobj| |help:13_VV0| |human:14_NN|)
+(|ccomp| _ |human:14_NN| |make:16_VV0|)
+(|ncsubj| |make:16_VV0| |coders:15_NNS| _)
+(|dobj| |make:16_VV0| |decisions:18_NN2|)
+(|det| |decisions:18_NN2| |these:17_DD2|)
+(|ccomp| _ |tagging:1_VVG| |give:8_VV0|)
+(|ncsubj| |give:8_VV0| |manuals:2_NN2| _)
+(|dobj| |give:8_VV0| |heuristics:10_NNS|)
+(|ncmod| _ |heuristics:10_NNS| |various:9_JJ|)
+(|ta| |bal| |manuals:2_NN2| 1990\:6_NNT1)
+
+

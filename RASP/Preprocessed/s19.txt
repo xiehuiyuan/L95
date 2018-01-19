@@ -1,0 +1,1 @@
+^_^ Thus_CF the_AT EM-trained_JJ "_" pure_JJ HMM_NP "_" tagger_NN1 is_VBZ probably_RR best_RRT suited_VVN to_TO cases_NN2 where_RRQ no_AT training_NN1 data_NN1 is_VBZ available_JJ ,_, for_II example_NN1 ,_, when_RRQ tagging_VVG languages_NN2 for_II which_DDQ no_AT data_NN1 was_VBDZ previously_RR hand-tagged_VVN ._. 

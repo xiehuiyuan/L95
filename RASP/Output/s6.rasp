@@ -1,0 +1,16 @@
+(|The:1_AT| |horse:2_NN1| |as:3_RP| |well:4_RP| |as:5_II| |the:6_AT| |rabbits:7_NN2| |which:8_DDQ| |we:9_PPIS2| |wanted:10_VVD| |to:11_TO| |eat:12_VV0| |have:13_VH0| |escaped:14_VVN| |.:15_.|) 1 ; (-28.381)
+gr-list: 1
+(|ncsubj| |escaped:14_VVN| |horse:2_NN1| _)
+(|aux| |escaped:14_VVN| |have:13_VH0|)
+(|det| |horse:2_NN1| |The:1_AT|)
+(|ncmod| _ |horse:2_NN1| |as:5_II|)
+(|ncmod| _ |as:5_II| |well:4_RP|)
+(|dobj| |as:5_II| |rabbits:7_NN2|)
+(|det| |rabbits:7_NN2| |the:6_AT|)
+(|cmod| _ |rabbits:7_NN2| |wanted:10_VVD|)
+(|obj| |wanted:10_VVD| |which:8_DDQ|)
+(|ncsubj| |wanted:10_VVD| |we:9_PPIS2| _)
+(|xcomp| |to| |wanted:10_VVD| |eat:12_VV0|)
+(|ncmod| _ |well:4_RP| |as:3_RP|)
+
+

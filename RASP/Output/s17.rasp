@@ -1,0 +1,10 @@
+*** Error, word was:5_VBD not found
+(|The:1_AT| |Penn:2_NP| |Treebank:3_NP| |tagset:4_NN1| |was:5_VBD| |culled:6_VDN| |from:7_II| |the:8_AT| |original:9_JJ| |87-tag:10_NN1| |tagset:11_NN1| |for:12_II| |the:13_AT| |Brown:14_NP| |Corpus:15_NP| |.:16_.|) -1 ; ()
+
+(X |The:1_AT| |Penn:2_NP| |Treebank:3_NP| |tagset:4_NN1| |was:5_VBD|
+ |culled:6_VDN| |from:7_II| |the:8_AT| |original:9_JJ|
+ |87-tag:10_NN1| |tagset:11_NN1| |for:12_II| |the:13_AT|
+ |Brown:14_NP| |Corpus:15_NP| |.:16_.|)
+
+
+For_II example_NN1 the_AT original_JJ Brown_NP and_CC C5_NP tagsets_NN2 include_VD0 a_AT1 separate_JJ tag_NN1 for_II each_AT1 of_II the_AT different_JJ forms_NN2 of_II the_AT verbs_NN2 do_VD0 (_( e.g_II ._. C5_NP tag_NN1 VDD_NP for_II did_VDD and_CC VDG_NP tag_NN1 for_II doing_VDG )_) ,_, be_VB0 and_CC have_VH0 ._. 

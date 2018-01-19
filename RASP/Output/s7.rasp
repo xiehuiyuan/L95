@@ -1,0 +1,17 @@
+(|It:1_PPIS1| |was:2_VBDZ| |my:3_APP$| |aunt:4_NN1| |'s:5_$| |car:6_NN1| |which:7_DDQ| |we:8_PPIS2| |sold:9_VVD| |at:10_II| |auction:11_NN1| |last:12_JJ| |year:13_NN1| |in:14_II| |February:15_NP| |.:16_.|) 1 ; (-25.177)
+gr-list: 1
+(|ncsubj| |was:2_VBDZ| |It:1_PPIS1| _)
+(|xcomp| _ |was:2_VBDZ| |car:6_NN1|)
+(|ncmod| |poss| |car:6_NN1| |aunt:4_NN1|)
+(|cmod| _ |car:6_NN1| |sold:9_VVD|)
+(|obj| |sold:9_VVD| |which:7_DDQ|)
+(|ncsubj| |sold:9_VVD| |we:8_PPIS2| _)
+(|iobj| |sold:9_VVD| |at:10_II|)
+(|dobj| |at:10_II| |year:13_NN1|)
+(|ncmod| _ |year:13_NN1| |in:14_II|)
+(|dobj| |in:14_II| |February:15_NP|)
+(|ncmod| _ |year:13_NN1| |auction:11_NN1|)
+(|ncmod| _ |year:13_NN1| |last:12_JJ|)
+(|det| |aunt:4_NN1| |my:3_APP$|)
+
+

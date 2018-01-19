@@ -1,0 +1,10 @@
+nsubj(broke-5, Kim-1)
+conj_and(Kim-1, Sandy-3)
+nsubj(broke-5, Sandy-3)
+advmod(broke-5, both-4)
+root(ROOT-0, broke-5)
+prt(broke-5, up-6)
+poss(partners-9, their-8)
+prep_with(broke-5, partners-9)
+punct(broke-5, .-10)
+

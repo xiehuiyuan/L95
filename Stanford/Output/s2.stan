@@ -1,0 +1,12 @@
+case(least-2, At-1)
+nmod:npmod(two-3, least-2)
+nummod(men-4, two-3)
+nsubj(broke-5, men-4)
+nsubj(stole-8, men-4)
+root(ROOT-0, broke-5)
+compound:prt(broke-5, in-6)
+cc(broke-5, and-7)
+conj:and(broke-5, stole-8)
+nmod:poss(TV-10, my-9)
+dobj(stole-8, TV-10)
+

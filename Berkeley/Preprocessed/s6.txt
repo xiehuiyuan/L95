@@ -1,0 +1,16 @@
+The	DT
+horse	NN
+as	RB
+well	RB
+as	IN
+the	DT
+rabbits	NNS
+which	WDT
+we	PRP
+wanted	VBD
+to	TO
+eat	VB
+have	VBP
+escaped	VBN
+.	.
+

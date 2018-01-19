@@ -1,0 +1,13 @@
+(|At:1_II| |least:2_JJT| |two:3_MC| |men:4_NN2| |broke:5_VVD| |in:6_RP| |and:7_CC| |stole:8_VVD| |my:9_APP$| TV\:10_NN1 |.:11_.|) 1 ; (-19.330)
+gr-list: 1
+(|ncsubj| |and:7_CC| |At:1_II| |inv|)
+(|conj| |and:7_CC| |broke:5_VVD|)
+(|conj| |and:7_CC| |stole:8_VVD|)
+(|dobj| |stole:8_VVD| TV\:10_NN1)
+(|det| TV\:10_NN1 |my:9_APP$|)
+(|ncmod| |prt| |broke:5_VVD| |in:6_RP|)
+(|dobj| |At:1_II| |men:4_NN2|)
+(|ncmod| _ |men:4_NN2| |least:2_JJT|)
+(|ncmod| |num| |men:4_NN2| |two:3_MC|)
+
+

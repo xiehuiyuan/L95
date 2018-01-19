@@ -1,0 +1,1 @@
+Natural/JJ disasters/NNS -/: storms/NNS ,/, flooding/NN ,/, hurricanes/NNS -/: occur/VBP infrequently/RB but/CC cause/VBP devastation/NN that/WDT strains/VBZ resources/NNS to/TO breaking/VBG point/NN ./. 

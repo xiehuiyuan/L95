@@ -1,0 +1,21 @@
+(|Letters:1_NN2| |delivered:2_VDN| |on:3_II| |time:4_NN1| |by:5_II| |old-fashioned:6_JJ| |means:7_NN2| |are:8_VBR| |increasingly:9_RR| |rare:10_JJ| |,:11_,| |so:12_CF| |it:13_PPH1| |is:14_VBZ| |as:15_RR| |well:16_RR| |that:17_CST| |that:18_DDQ| |is:19_VBZ| |not:20_XX| |the:21_AT| |only:22_JJ| |option:23_NN1| |available:24_JJ| |.:25_.|) 0 ; ()
+gr-list: 1
+(|ncsubj| |is:19_VBZ| |that:18_DDQ| _)
+(|xcomp| _ |is:19_VBZ| |available:24_JJ|)
+(|ncmod| _ |is:19_VBZ| |not:20_XX|)
+(|ncmod| _ |available:24_JJ| |option:23_NN1|)
+(|det| |available:24_JJ| |the:21_AT|)
+(|ncmod| _ |option:23_NN1| |only:22_JJ|)
+(|ncmod| _ |well:16_RR| |as:15_RR|)
+(|xcomp| _ |are:8_VBR| |rare:10_JJ|)
+(|ncmod| _ |rare:10_JJ| |increasingly:9_RR|)
+(|passive| |delivered:2_VDN|)
+(|ncsubj| |delivered:2_VDN| |Letters:1_NN2| |obj|)
+(|xmod| _ |Letters:1_NN2| |delivered:2_VDN|)
+(|ncmod| _ |delivered:2_VDN| |on:3_II|)
+(|dobj| |delivered:2_VDN| |means:7_NN2|)
+(|dobj| |on:3_II| |time:4_NN1|)
+(|ncmod| _ |time:4_NN1| |by:5_II|)
+(|dobj| |by:5_II| |old-fashioned:6_JJ|)
+
+

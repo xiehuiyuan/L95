@@ -1,0 +1,14 @@
+(|The:1_AT| |horse:2_NN1| |which:3_DDQ| |Kim:4_NP| |sometimes:5_RR| |rides:6_VVZ| |is:7_VBZ| |more:8_RRR| |bad:9_JJ| |tempered:10_VVN| |than:11_CSN| |mine:12_PP$| |.:13_.|) 0 ; ()
+gr-list: 1
+(|dobj| |than:11_CSN| |mine:12_PP$|)
+(|ncsubj| |tempered:10_VVN| |horse:2_NN1| _)
+(|det| |horse:2_NN1| |The:1_AT|)
+(|ccomp| _ |horse:2_NN1| |is:7_VBZ|)
+(|csubj| |is:7_VBZ| |rides:6_VVZ| _)
+(|xcomp| _ |is:7_VBZ| |bad:9_JJ|)
+(|ncmod| _ |bad:9_JJ| |more:8_RRR|)
+(|ncsubj| |rides:6_VVZ| |Kim:4_NP| _)
+(|ncmod| _ |rides:6_VVZ| |sometimes:5_RR|)
+(|det| |Kim:4_NP| |which:3_DDQ|)
+
+

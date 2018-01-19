@@ -1,0 +1,17 @@
+It	PRP
+was	VBD
+my	PRP$
+aunt	NN
+'s	POS
+car	NN
+which	WDT
+we	PRP
+sold	VBD
+at	IN
+auction	NN
+last	JJ
+year	NN
+in	IN
+February	NNP
+.	.
+

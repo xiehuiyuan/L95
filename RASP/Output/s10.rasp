@@ -1,0 +1,12 @@
+(|Natural:1_JJ| |disasters:2_NN2| |-:3_:| |storms:4_NN2| |,:5_,| |flooding:6_NN1| |,:7_,| |hurricanes:8_NN2| |-:9_:| |occur:10_VD0| |infrequently:11_RR| |but:12_CCB| |cause:13_VD0| |devastation:14_NN1| |that:15_CST| |strains:16_VDZ| |resources:17_NN2| |to:18_TO| |breaking:19_VDG| |point:20_NN1| |.:21_.|) 0 ; ()
+gr-list: 1
+(|ncsubj| |strains:16_VDZ| |devastation:14_NN1| _)
+(|cmod| |that| |devastation:14_NN1| |strains:16_VDZ|)
+(|dobj| |strains:16_VDZ| |resources:17_NN2|)
+(|conj| |but:12_CCB| |cause:13_VD0|)
+(|ta| |colon| |disasters:2_NN2| |hurricanes:8_NN2|)
+(|ncmod| _ |hurricanes:8_NN2| |storms:4_NN2|)
+(|ta| |bal| |storms:4_NN2| |flooding:6_NN1|)
+(|ncmod| _ |disasters:2_NN2| |Natural:1_JJ|)
+
+

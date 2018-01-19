@@ -1,0 +1,10 @@
+(|The:1_AT| |horses:2_NN2| |were:3_VVD| |broken:4_VDN| |in:5_RP| |and:6_CC| |ridden:7_VDN| |in:8_II| |two:9_MC| |weeks:10_NN2| |.:11_.|) 0 ; ()
+gr-list: 1
+(|conj| |and:6_CC| |ridden:7_VDN|)
+(|ncmod| _ |ridden:7_VDN| |in:8_II|)
+(|dobj| |ridden:7_VDN| |weeks:10_NN2|)
+(|dobj| |in:8_II| |two:9_MC|)
+(|ncsubj| |were:3_VVD| |horses:2_NN2| _)
+(|det| |horses:2_NN2| |The:1_AT|)
+
+

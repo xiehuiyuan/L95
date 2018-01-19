@@ -1,0 +1,14 @@
+(|The:1_AT| |long:2_JJ| |and:3_CC| |lonely:4_JJ| |road:5_NN1| |to:6_TO| |redemption:7_NN1| |begins:8_VDZ| |with:9_II| |self-reflection:10_NN1| |::11_:| |the:12_AT| |need:13_NN1| |to:14_TO| |delve:15_VD0| |inwards:16_II| |to:17_TO| |deconstruct:18_VD0| |layers:19_NN2| |of:20_II| |psychological:21_JJ| |obfuscation:22_NN1| |.:23_.|) 0 ; ()
+gr-list: 1
+(|xcomp| |to| |inwards:16_II| |deconstruct:18_VD0|)
+(|ncmod| _ |deconstruct:18_VD0| |of:20_II|)
+(|dobj| |of:20_II| |psychological:21_JJ|)
+(|dobj| |deconstruct:18_VD0| |layers:19_NN2|)
+(|det| |need:13_NN1| |the:12_AT|)
+(|dobj| |with:9_II| |self-reflection:10_NN1|)
+(|det| |road:5_NN1| |The:1_AT|)
+(|ncmod| _ |road:5_NN1| |and:3_CC|)
+(|conj| |and:3_CC| |long:2_JJ|)
+(|conj| |and:3_CC| |lonely:4_JJ|)
+
+

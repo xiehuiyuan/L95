@@ -1,0 +1,2 @@
+^_^ The_AT Penn_NP Treebank_NP tagset_NN1 was_VBD culled_VVN from_II the_AT original_JJ 87-tag_NN1 tagset_NN1 for_II the_AT Brown_NP Corpus_NP ._. 
+For_II example_NN1 the_AT original_JJ Brown_NP and_CC C5_NP tagsets_NN2 include_VV0 a_AT1 separate_JJ tag_NN1 for_II each_AT1 of_II the_AT different_JJ forms_NN2 of_II the_AT verbs_NN2 do_VD0 (_( e.g_II ._. C5_NP tag_NN1 VDD_NP for_II did_VDD and_CC VDG_NP tag_NN1 for_II doing_VDG )_) ,_, be_VB0 and_CC have_VH0 ._. 

@@ -1,0 +1,11 @@
+nsubj(broke-5, Kim-1)
+cc(Kim-1, and-2)
+conj:and(Kim-1, Sandy-3)
+nsubj(broke-5, Sandy-3)
+advmod(broke-5, both-4)
+root(ROOT-0, broke-5)
+compound:prt(broke-5, up-6)
+case(partners-9, with-7)
+nmod:poss(partners-9, their-8)
+nmod:with(broke-5, partners-9)
+

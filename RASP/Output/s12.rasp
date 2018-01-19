@@ -1,0 +1,23 @@
+(|It:1_PPH1| |wo:2_VM| |n't:3_XX| |rain:4_VD0| |but:5_CCB| |there:6_EX| |might:7_VM| |be:8_VB0| |snow:9_NN1| |on:10_II| |high:11_JJ| |ground:12_NN1| |if:13_II| |the:14_AT| |temperature:15_NN1| |stays:16_VDZ| |about:17_II| |the:18_AT| |same:19_JJ| |over:20_II| |the:21_AT| |next:22_JJ| 24\:23_MC |hours:24_NN2| |.:25_.|) 0 ; ()
+gr-list: 1
+(|conj| |but:5_CCB| |be:8_VB0|)
+(|ncsubj| |be:8_VB0| |there:6_EX| _)
+(|aux| |be:8_VB0| |might:7_VM|)
+(|xcomp| _ |be:8_VB0| |snow:9_NN1|)
+(|ncmod| _ |snow:9_NN1| |on:10_II|)
+(|dobj| |on:10_II| |ground:12_NN1|)
+(|cmod| _ |ground:12_NN1| |if:13_II|)
+(|ccomp| _ |if:13_II| |stays:16_VDZ|)
+(|ncsubj| |stays:16_VDZ| |temperature:15_NN1| _)
+(|ncmod| _ |stays:16_VDZ| |about:17_II|)
+(|dobj| |stays:16_VDZ| |hours:24_NN2|)
+(|ncmod| |num| |hours:24_NN2| 24\:23_MC)
+(|dobj| |about:17_II| |same:19_JJ|)
+(|det| |same:19_JJ| |the:18_AT|)
+(|ncmod| _ |same:19_JJ| |over:20_II|)
+(|dobj| |over:20_II| |next:22_JJ|)
+(|det| |next:22_JJ| |the:21_AT|)
+(|det| |temperature:15_NN1| |the:14_AT|)
+(|ncmod| _ |ground:12_NN1| |high:11_JJ|)
+
+

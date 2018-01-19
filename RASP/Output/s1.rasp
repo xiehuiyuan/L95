@@ -1,0 +1,12 @@
+(|The:1_AT| |old:2_JJ| |car:3_NN| |broke:4_VVD| |down:5_RP| |in:6_II| |the:7_AT| |car:8_NN1| |park:9_NN1| |.:10_.|) 1 ; (-6.966)
+gr-list: 1
+(|ncsubj| |broke:4_VVD| |car:3_NN| _)
+(|iobj| |broke:4_VVD| |in:6_II|)
+(|dobj| |in:6_II| |park:9_NN1|)
+(|det| |park:9_NN1| |the:7_AT|)
+(|ncmod| _ |park:9_NN1| |car:8_NN1|)
+(|ncmod| |prt| |broke:4_VVD| |down:5_RP|)
+(|det| |car:3_NN| |The:1_AT|)
+(|ncmod| _ |car:3_NN| |old:2_JJ|)
+
+

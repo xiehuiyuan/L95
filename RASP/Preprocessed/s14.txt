@@ -1,0 +1,1 @@
+^_^ My_APP$ wildest_JJT dream_NN1 is_VBZ to_TO build_VD0 a_AT1 POS_NP tagger_NN1 which_DDQ processes_VDZ 10_MC K_NN2 words_NN2 per_II second_NN1 and_CC uses_VDZ only_RR 1_MC1 MB_NN2 of_II RAM_NN2 ,_, but_CCB it_PPH1 may_VM prove_VD0 too_RR hard_JJ ._. 

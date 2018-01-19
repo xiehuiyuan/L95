@@ -1,0 +1,11 @@
+(|Kim:1_NP| |and:2_CC| |Sandy:3_NP| |both:4_DB2| |broke:5_VVD| |up:6_RP| |with:7_II| |their:8_APP$| |partners:9_NN2| |.:10_.|) 0 ; ()
+gr-list: 1
+(|ncsubj| |broke:5_VVD| |both:4_DB2| _)
+(|iobj| |broke:5_VVD| |with:7_II|)
+(|dobj| |with:7_II| |partners:9_NN2|)
+(|det| |partners:9_NN2| |their:8_APP$|)
+(|ncmod| |prt| |broke:5_VVD| |up:6_RP|)
+(|conj| |and:2_CC| |Kim:1_NP|)
+(|conj| |and:2_CC| |Sandy:3_NP|)
+
+

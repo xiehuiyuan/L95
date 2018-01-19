@@ -1,0 +1,1 @@
+^_^ Natural_JJ disasters_NN2 -_: storms_NN2 ,_, flooding_NN1 ,_, hurricanes_NN2 -_: occur_VD0 infrequently_RR but_CCB cause_VD0 devastation_NN1 that_CST strains_VDZ resources_NN2 to_TO breaking_VDG point_NN1 ._. 

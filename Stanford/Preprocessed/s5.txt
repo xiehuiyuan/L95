@@ -1,0 +1,1 @@
+The/DT horse/NN which/WDT Kim/NNP sometimes/RB rides/VBZ is/VBZ more/RBR bad/JJ tempered/VBN than/IN mine/PRP$ ./. 

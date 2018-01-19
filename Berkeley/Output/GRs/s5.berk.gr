@@ -1,0 +1,13 @@
+det(horse-2, The-1)
+dobj(rides-6, horse-2)
+nsubj(tempered-10, horse-2)
+nsubj(rides-6, Kim-4)
+advmod(rides-6, sometimes-5)
+rcmod(horse-2, rides-6)
+cop(tempered-10, is-7)
+advmod(bad-9, more-8)
+advmod(tempered-10, bad-9)
+root(ROOT-0, tempered-10)
+prep_than(tempered-10, mine-12)
+punct(tempered-10, .-13)
+

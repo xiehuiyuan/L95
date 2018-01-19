@@ -1,0 +1,2 @@
+^_^ Making_VVG these_DD2 decisions_NN2 requires_VVZ sophisticated_JJ knowledge_NN1 of_II syntax_NN1 ;_;
+^_^ tagging_VVG manuals_NN2 (_( Santorini_NP ,_, 1990_NNT1 )_) give_VV0 various_JJ heuristics_NNS that_CST can_VM help_VV0 human_NN coders_NNS make_VV0 these_DD2 decisions_NN2 and_CC that_CST can_VM also_RR provide_VV0 useful_JJ features_NN2 for_II automatic_JJ taggers_NN2 ._. 

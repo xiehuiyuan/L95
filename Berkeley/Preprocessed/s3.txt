@@ -1,0 +1,12 @@
+The	DT
+horses	NNS
+were	VBD
+broken	VBN
+in	RP
+and	CC
+ridden	VBN
+in	IN
+two	CD
+weeks	NNS
+.	.
+

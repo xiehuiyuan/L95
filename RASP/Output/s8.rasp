@@ -1,0 +1,17 @@
+(|The:1_AT| |only:2_JJ| |rabbit:3_NN1| |that:4_CST| |I:5_PPIS1| |ever:6_RR| |liked:7_VVD| |was:8_VBDZ| |eaten:9_VVN| |by:10_II| |my:11_APP$| |parents:12_NN2| |one:13_MC1| |summer:14_NN1| |.:15_.|) 1 ; (-19.927)
+gr-list: 1
+(|ncsubj| |eaten:9_VVN| |rabbit:3_NN1| _)
+(|aux| |eaten:9_VVN| |was:8_VBDZ|)
+(|passive| |eaten:9_VVN|)
+(|iobj| |eaten:9_VVN| |by:10_II|)
+(|dobj| |by:10_II| |summer:14_NN1|)
+(|det| |summer:14_NN1| |my:11_APP$|)
+(|ncmod| _ |summer:14_NN1| |parents:12_NN2|)
+(|ncmod| |num| |summer:14_NN1| |one:13_MC1|)
+(|det| |rabbit:3_NN1| |The:1_AT|)
+(|ncmod| _ |rabbit:3_NN1| |only:2_JJ|)
+(|ccomp| |that:4_CST| |rabbit:3_NN1| |liked:7_VVD|)
+(|ncsubj| |liked:7_VVD| |I:5_PPIS1| _)
+(|ncmod| _ |liked:7_VVD| |ever:6_RR|)
+
+

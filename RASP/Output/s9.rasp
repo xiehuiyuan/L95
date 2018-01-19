@@ -1,0 +1,10 @@
+(|The:1_AT| |veterans:2_NN2| |who:3_PNQS| |I:4_PPIS1| |thought:5_VDD| |that:6_CST| |we:7_PPIS2| |would:8_VM| |meet:9_VD0| |at:10_II| |the:11_AT| |reunion:12_NN1| |were:13_VBDR| |dead:14_JJ| |.:15_.|) 0 ; ()
+gr-list: 1
+(|aux| |were:13_VBDR| |meet:9_VD0|)
+(|ncsubj| |were:13_VBDR| |at:10_II| |inv|)
+(|xcomp| _ |were:13_VBDR| |dead:14_JJ|)
+(|dobj| |at:10_II| |reunion:12_NN1|)
+(|det| |reunion:12_NN1| |the:11_AT|)
+(|det| |veterans:2_NN2| |The:1_AT|)
+
+

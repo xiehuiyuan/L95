@@ -1,0 +1,33 @@
+(|But:1_CCB| |far:2_RR| |fewer:3_JJ| |people:4_NN2| |fully:5_RR| |understand:6_VD0| |how:7_RGQ| |the:8_AT| |Media:9_NP| |Lab:10_NP| |operates:11_VDZ| |,:12_,| |fits:13_VDZ| |into:14_II| MIT\:15_NP |,:16_,| |and:17_CC| |encourages:18_VDZ| |such:19_JJ| |a:20_AT1| |creative:21_JJ| |environment:22_NN1| |;:23_:|) 0 ; ()
+gr-list: 1
+(|det| |environment:22_NN1| |a:20_AT1|)
+(|ncmod| _ |environment:22_NN1| |creative:21_JJ|)
+(|conj| |and:17_CC| |encourages:18_VDZ|)
+(|dobj| |into:14_II| MIT\:15_NP)
+(|conj| |But:1_CCB| |understand:6_VD0|)
+(|ncsubj| |understand:6_VD0| |people:4_NN2| _)
+(|ncmod| _ |understand:6_VD0| |fully:5_RR|)
+(|ncmod| _ |understand:6_VD0| |how:7_RGQ|)
+(|dobj| |understand:6_VD0| |Lab:10_NP|)
+(|dobj| |how:7_RGQ| |Media:9_NP|)
+(|det| |Media:9_NP| |the:8_AT|)
+(|ncmod| _ |people:4_NN2| |fewer:3_JJ|)
+(|ncmod| _ |fewer:3_JJ| |far:2_RR|)
+
+
+(|about:1_II| |half:2_DB| |of:3_II| |the:4_AT| |anniversary:5_NN1| |celebration:6_NN1| |'s:7_$| |program:8_NN1| |focused:9_VDD| |on:10_II| |simply:11_RR| |defining:12_VDG| |what:13_DDQ| |the:14_AT| |Media:15_NP| |Lab:16_NP| |is:17_VBZ| |.:18_.|) 0 ; ()
+gr-list: 1
+(|xcomp| _ |on:10_II| |defining:12_VDG|)
+(|ncmod| _ |defining:12_VDG| |simply:11_RR|)
+(|dobj| |defining:12_VDG| |Lab:16_NP|)
+(|det| |Lab:16_NP| |the:14_AT|)
+(|det| |Lab:16_NP| |what:13_DDQ|)
+(|ncmod| _ |Lab:16_NP| |Media:15_NP|)
+(|dobj| |about:1_II| |half:2_DB|)
+(|ncmod| _ |half:2_DB| |of:3_II|)
+(|dobj| |of:3_II| |program:8_NN1|)
+(|ncmod| |poss| |program:8_NN1| |celebration:6_NN1|)
+(|det| |celebration:6_NN1| |the:4_AT|)
+(|ncmod| _ |celebration:6_NN1| |anniversary:5_NN1|)
+
+
